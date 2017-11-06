@@ -1,0 +1,12 @@
+{
+    "columns": [
+        {
+            "ColumnName": "hey",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ],
+    "permissions": {
+        "Anonymous": 2
+    }
+}
