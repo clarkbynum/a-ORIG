@@ -1,0 +1,638 @@
+{
+    "config": {
+        "cols": {
+            "lg": 12,
+            "md": 10,
+            "sm": 6,
+            "xs": 4,
+            "xxs": 2
+        },
+        "currentBreakpointForFlyoutWidgets": "lg",
+        "currentBreakpointForPanes": "lg",
+        "currentBreakpointsForWidgets": {
+            "41cd23fd-04cd-45b3-92f6-32fedc5c6d75": "md",
+            "8bb3d40d-577f-480e-a91a-4a53ed7f31eb": "lg"
+        },
+        "datasources": {
+            "198d9aba-86de-43dc-90e9-cfaa89286ea3": {
+                "id": "198d9aba-86de-43dc-90e9-cfaa89286ea3",
+                "name": "test",
+                "settings": {
+                    "SUPPRESS_DATASOURCE_ERRORS": true,
+                    "TOPIC_NAME": "mytopic"
+                },
+                "type": "CB_MESSAGE_TOPIC"
+            },
+            "933727e9-d38f-4079-938a-9513d5b1f729": {
+                "id": "933727e9-d38f-4079-938a-9513d5b1f729",
+                "name": "service",
+                "settings": {
+                    "CALL_ON_LOAD": false,
+                    "SUPPRESS_DATASOURCE_ERRORS": true,
+                    "code_name": "tet",
+                    "payload": "{\"wow\": \"cool\"}",
+                    "refresh_interval": 10
+                },
+                "type": "CB_CODE_SERVICE"
+            },
+            "f09e3d15-c60a-4e1f-8380-468cfbd6eb87": {
+                "id": "f09e3d15-c60a-4e1f-8380-468cfbd6eb87",
+                "name": "size",
+                "settings": {
+                    "CALL_ON_LOAD": true,
+                    "SUPPRESS_DATASOURCE_ERRORS": false,
+                    "refresh_interval": 100,
+                    "topic_name": "mytopic"
+                },
+                "type": "CB_AVG_MESSAGE_PAYLOAD_SIZE"
+            }
+        },
+        "flyoutWidgetLayout": {
+            "lg": [],
+            "md": [],
+            "sm": [],
+            "xs": [],
+            "xxs": []
+        },
+        "headerWidgetLayout": {
+            "lg": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 42,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 46,
+                    "x": 185,
+                    "y": 0
+                }
+            ],
+            "md": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 36,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 39,
+                    "x": 154,
+                    "y": 0
+                }
+            ],
+            "sm": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 34,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 37,
+                    "x": 117,
+                    "y": 0
+                }
+            ],
+            "xs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 28,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 31,
+                    "x": 71,
+                    "y": 0
+                }
+            ],
+            "xxs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 33,
+                    "x": 47,
+                    "y": 0
+                }
+            ]
+        },
+        "pages": {
+            "0591449a-cd36-403e-875b-4269f541a66b": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "0591449a-cd36-403e-875b-4269f541a66b",
+                "isChild": false,
+                "isParam": false,
+                "name": "one",
+                "path": ""
+            },
+            "Home": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "Home",
+                "isChild": false,
+                "isParam": false,
+                "name": "Home",
+                "path": ""
+            }
+        },
+        "paneGridWidgetLayouts": {
+            "41cd23fd-04cd-45b3-92f6-32fedc5c6d75": {
+                "lg": [
+                    {
+                        "h": 1,
+                        "i": "82e3a5c1-3031-474e-ad4c-558c0e50eeea",
+                        "moved": false,
+                        "static": false,
+                        "w": 12,
+                        "x": 0,
+                        "y": 2
+                    },
+                    {
+                        "h": 1,
+                        "i": "e6c210d3-388f-4855-b5ae-f6e949ccf882",
+                        "moved": false,
+                        "static": false,
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "h": 1,
+                        "i": "399293ec-908f-4509-aa66-34b0ee5b8a0e",
+                        "moved": false,
+                        "static": false,
+                        "w": 12,
+                        "x": 0,
+                        "y": 1
+                    }
+                ],
+                "md": [
+                    {
+                        "h": 1,
+                        "i": "82e3a5c1-3031-474e-ad4c-558c0e50eeea",
+                        "moved": false,
+                        "static": false,
+                        "w": 10,
+                        "x": 0,
+                        "y": 2
+                    },
+                    {
+                        "h": 1,
+                        "i": "e6c210d3-388f-4855-b5ae-f6e949ccf882",
+                        "moved": false,
+                        "static": false,
+                        "w": 10,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "h": 1,
+                        "i": "399293ec-908f-4509-aa66-34b0ee5b8a0e",
+                        "moved": false,
+                        "static": false,
+                        "w": 10,
+                        "x": 0,
+                        "y": 1
+                    }
+                ],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "8bb3d40d-577f-480e-a91a-4a53ed7f31eb": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "paneLayouts": {
+            "0591449a-cd36-403e-875b-4269f541a66b": {
+                "lg": [
+                    {
+                        "h": 2,
+                        "i": "57240e6a-fb33-4a9c-b4b0-bbadd7801994",
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "Home": {
+                "lg": [
+                    {
+                        "h": 4,
+                        "i": "fa0b85ac-1e77-487a-9de9-2dc3686494ac",
+                        "moved": false,
+                        "static": false,
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "panes": {
+            "57240e6a-fb33-4a9c-b4b0-bbadd7801994": {
+                "customPaneId": "",
+                "header": {
+                    "hide": false,
+                    "title": "one"
+                },
+                "hiddenBreakpoints": {},
+                "hideBorders": false,
+                "id": "57240e6a-fb33-4a9c-b4b0-bbadd7801994",
+                "pageId": "0591449a-cd36-403e-875b-4269f541a66b",
+                "tabInfo": {
+                    "activeTab": "8bb3d40d-577f-480e-a91a-4a53ed7f31eb",
+                    "tabIds": [
+                        "8bb3d40d-577f-480e-a91a-4a53ed7f31eb"
+                    ],
+                    "tabTitles": {
+                        "8bb3d40d-577f-480e-a91a-4a53ed7f31eb": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            },
+            "fa0b85ac-1e77-487a-9de9-2dc3686494ac": {
+                "customPaneId": "coolID",
+                "header": {
+                    "hide": false,
+                    "title": ""
+                },
+                "hiddenBreakpoints": {},
+                "hideBorders": false,
+                "id": "fa0b85ac-1e77-487a-9de9-2dc3686494ac",
+                "pageId": "Home",
+                "tabInfo": {
+                    "activeTab": "41cd23fd-04cd-45b3-92f6-32fedc5c6d75",
+                    "tabIds": [
+                        "41cd23fd-04cd-45b3-92f6-32fedc5c6d75"
+                    ],
+                    "tabTitles": {
+                        "41cd23fd-04cd-45b3-92f6-32fedc5c6d75": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            }
+        },
+        "savedPortalExists": true,
+        "theme": {
+            "graph": {
+                "four": "#E8E7C6",
+                "one": "#6E8592",
+                "three": "#DBA5A8",
+                "two": "#6E93A8"
+            },
+            "info": {
+                "display_name": "Standard",
+                "name": "STANDARD_THEME"
+            },
+            "items": {
+                "main": {
+                    "header": {
+                        "burgerBars": {
+                            "fontColor": "#f5f5f5"
+                        },
+                        "dropdown": {
+                            "fontColor": "#f5f5f5",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "styles": {
+                            "backgroundColor": "#6e8592"
+                        }
+                    },
+                    "panes": {
+                        "flyout": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            }
+                        },
+                        "primary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#9db5c2",
+                                "fontColor": "#000000"
+                            }
+                        },
+                        "secondary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#9db5c2"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#6e8592",
+                                "fontColor": "#000000"
+                            }
+                        }
+                    },
+                    "portal": {
+                        "styles": {
+                            "backgroundColor": "#ffffff"
+                        }
+                    },
+                    "widgets": {
+                        "BAR_CHART_WIDGET_COMPONENT": {
+                            "barColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ],
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000"
+                        },
+                        "BUTTON_WIDGET_COMPONENT": {
+                            "backgroundColor": "#f5f5f5",
+                            "backgroundHoverColor": "#c2c2c2",
+                            "borderColor": "#cccccc",
+                            "fontColor": "#000000"
+                        },
+                        "GOOGLE_MAP_WIDGET_COMPONENT": {
+                            "mapTheme": ""
+                        },
+                        "LINE_CHART_WIDGET_COMPONENT": {
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000",
+                            "lineColors": [
+                                {
+                                    "stroke": "#6E8592"
+                                },
+                                {
+                                    "stroke": "#6E93A8"
+                                },
+                                {
+                                    "stroke": "#DBA5A8"
+                                },
+                                {
+                                    "stroke": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "LIST_WIDGET_COMPONENT": {
+                            "activeFontColor": "#000000",
+                            "activeItemBackgroundColor": "#6e8592",
+                            "fontColor": "#000000",
+                            "listItemBackgroundColor": "#ffffff",
+                            "titleColor": "#000000"
+                        },
+                        "PIE_CHART_WIDGET_COMPONENT": {
+                            "cells": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "RADIAL_GAUGE_WIDGET_COMPONENT": {
+                            "backgroundColor": "#c2c2c2",
+                            "progressColor": "#6e8592"
+                        },
+                        "SPEEDOMETER_WIDGET": {
+                            "arrowColor": "#000000",
+                            "sectionColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "TEXT_WIDGET_COMPONENT": {
+                            "fontColor": "#000000",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "TOGGLE_WIDGET": {
+                            "backgroundColor": "#c2c2c2",
+                            "fontColor": "#000000",
+                            "offColor": "#ffffff",
+                            "onColor": "#6e8592"
+                        }
+                    }
+                }
+            },
+            "palette": {
+                "darkPrimary": "#c2c2c2",
+                "darkSecondary": "#425864",
+                "defaultPrimary": "#f5f5f5",
+                "defaultSecondary": "#6e8592",
+                "lightPrimary": "#ffffff",
+                "lightSecondary": "#9db5c2",
+                "primaryText": "#000000",
+                "secondaryText": "#000000"
+            }
+        },
+        "upgradesPerformed": {
+            "flyoutTitleUpgrade": true,
+            "headerBrandUpgrade": true,
+            "headerTitleUpgrade": true
+        },
+        "widgets": {
+            "399293ec-908f-4509-aa66-34b0ee5b8a0e": {
+                "id": "399293ec-908f-4509-aa66-34b0ee5b8a0e",
+                "props": {
+                    "HAS_UNIQUE_STYLE": false,
+                    "fontColor": "#000000",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "DYNAMIC_DATA_TYPE",
+                        "id": "198d9aba-86de-43dc-90e9-cfaa89286ea3",
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": "console.log('text parser', this, datasources, panes);\nreturn this.datasource;"
+                        }
+                    }
+                },
+                "tab": "41cd23fd-04cd-45b3-92f6-32fedc5c6d75",
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "82e3a5c1-3031-474e-ad4c-558c0e50eeea": {
+                "id": "82e3a5c1-3031-474e-ad4c-558c0e50eeea",
+                "props": {
+                    "html": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": "return this.datasource;"
+                        },
+                        "value": {
+                            "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                            "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ch2\u003eHTML Widget\u003c/h2\u003e\n  \u003cdiv id=\"staticTarget\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                            "JavaScript": "//JavaScript\nconsole.log('static stuff', this, datasources, panes);\ndocument.getElementById(\"staticTarget\").innerHTML = \"woopsy\";"
+                        }
+                    }
+                },
+                "tab": "41cd23fd-04cd-45b3-92f6-32fedc5c6d75",
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "brand": {
+                "id": "brand",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "value": "ClearBlade"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "e6c210d3-388f-4855-b5ae-f6e949ccf882": {
+                "id": "e6c210d3-388f-4855-b5ae-f6e949ccf882",
+                "props": {
+                    "html": {
+                        "dataType": "DYNAMIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "id": "198d9aba-86de-43dc-90e9-cfaa89286ea3",
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": {
+                                "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                                "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ch2\u003eDYNAMIC HTML Widget\u003c/h2\u003e\n  \u003cdiv id=\"coolStuff\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                                "JavaScript": "//JavaScript\nconsole.log('dynamic stuff', this, datasources, panes);\ndocument.getElementById(\"coolStuff\").innerHTML = this.datasource;"
+                            }
+                        }
+                    }
+                },
+                "tab": "41cd23fd-04cd-45b3-92f6-32fedc5c6d75",
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "flyoutTitle": {
+                "id": "flyoutTitle",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 30,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "title": {
+                "id": "title",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Trebuchet MS",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            }
+        }
+    },
+    "description": null,
+    "last_updated": "31 Oct 17 14:58 CDT",
+    "name": "react16",
+    "system_key": "9ed887970beaa3c0f2ce9efd87e601",
+    "type": "v2"
+}
