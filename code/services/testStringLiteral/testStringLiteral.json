@@ -1,0 +1,10 @@
+{
+    "current_version": 12,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "testStringLiteral",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "testStringLiteral.js"
+}
