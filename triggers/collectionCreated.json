@@ -1,0 +1,11 @@
+{
+    "event_definition": {
+        "def_keys": [],
+        "def_module": "Data",
+        "def_name": "CollectionCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {},
+    "name": "collectionCreated",
+    "service_name": "tet"
+}
