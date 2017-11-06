@@ -1,0 +1,13 @@
+{
+    "current_version": 5,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "deviceList",
+    "params": [],
+    "permissions": {
+        " ": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "deviceList.js"
+}
