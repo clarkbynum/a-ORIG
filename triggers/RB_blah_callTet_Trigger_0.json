@@ -1,0 +1,15 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "topic"
+        ],
+        "def_module": "Messaging",
+        "def_name": "Subscribe",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "topic": "myto"
+    },
+    "name": "RB_blah_callTet_Trigger_0",
+    "service_name": "RB_blah_callTet_Service_0"
+}
