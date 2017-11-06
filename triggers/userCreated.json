@@ -1,0 +1,11 @@
+{
+    "event_definition": {
+        "def_keys": [],
+        "def_module": "User",
+        "def_name": "UserCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {},
+    "name": "userCreated",
+    "service_name": "tet"
+}
