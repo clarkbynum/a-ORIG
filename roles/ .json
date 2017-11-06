@@ -1,0 +1,30 @@
+{
+    "Description": "",
+    "ID": "9ab8e19b0bb8dbdee5e8f3f39a59",
+    "Name": " ",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "deviceList",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            }
+        ],
+        "Collections": [],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
