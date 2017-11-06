@@ -1,0 +1,13 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "deviceName"
+        ],
+        "def_module": "Device",
+        "def_name": "DeviceCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {},
+    "name": "deviceCreated",
+    "service_name": "tet"
+}
