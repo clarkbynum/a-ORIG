@@ -1,0 +1,10 @@
+{
+    "current_version": 5,
+    "dependencies": "clearblade",
+    "logging_enabled": "false",
+    "name": "testQuery",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "testQuery.js"
+}
