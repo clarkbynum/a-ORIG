@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "hello",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "a ORIG",
+    "platform_url": "http://127.0.0.1:9000",
+    "system_key": "9ed887970beaa3c0f2ce9efd87e601",
+    "system_secret": "9ED887970BB6F1FAF7958EE3DD5B"
+}
