@@ -1,0 +1,31 @@
+{
+    "app_id": "9ed887970beaa3c0f2ce9efd87e601",
+    "collection_id": "befbb2970bd2dec79beddbf7ae7e",
+    "items": [],
+    "name": "one",
+    "permissions": {
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "asdf",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "hey",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "blah",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
