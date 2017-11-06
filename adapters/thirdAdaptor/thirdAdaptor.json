@@ -1,0 +1,14 @@
+{
+    "architecture": "MacOS64",
+    "deploy_command": "third deploy",
+    "description": "thirdAdaptor description!!!",
+    "logs_command": "",
+    "name": "thirdAdaptor",
+    "os": "",
+    "protocol": "",
+    "start_command": "third start",
+    "status_command": "third status!",
+    "stop_command": "third stop",
+    "undeploy_command": "",
+    "version": 30
+}
