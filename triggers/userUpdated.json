@@ -1,0 +1,15 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "userId"
+        ],
+        "def_module": "User",
+        "def_name": "UserUpdated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "userId": "*"
+    },
+    "name": "userUpdated",
+    "service_name": "tet"
+}
