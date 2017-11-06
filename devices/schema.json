@@ -1,0 +1,9 @@
+{
+    "columns": [
+        {
+            "ColumnName": "wow",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
