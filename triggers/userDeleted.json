@@ -1,0 +1,15 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "userId"
+        ],
+        "def_module": "User",
+        "def_name": "UserDeleted",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "userId": "*"
+    },
+    "name": "userDeleted",
+    "service_name": "tet"
+}
