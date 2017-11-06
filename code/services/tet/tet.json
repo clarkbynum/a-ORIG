@@ -1,0 +1,12 @@
+{
+    "current_version": 26,
+    "dependencies": "log,blah",
+    "logging_enabled": "true",
+    "name": "tet",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "tet.js"
+}
