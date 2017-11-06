@@ -1,0 +1,13 @@
+{
+    "description": null,
+    "last_seen_version": "3.11",
+    "location": null,
+    "mac_address": null,
+    "name": "secondEdge",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "9ed887970beaa3c0f2ce9efd87e601",
+    "system_secret": "9ED887970BB6F1FAF7958EE3DD5B",
+    "token": "6hiu3S67N58SV628mq5B26x7u2u75"
+}
