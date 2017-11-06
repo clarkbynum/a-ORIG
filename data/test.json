@@ -1,0 +1,29 @@
+{
+    "app_id": "9ed887970beaa3c0f2ce9efd87e601",
+    "collection_id": "c8f9a79d0bdcd1f5b9cbfec5bc38",
+    "items": [],
+    "name": "test",
+    "permissions": {},
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "ble",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "plugin",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "portal",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
