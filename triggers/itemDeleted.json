@@ -1,0 +1,15 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName",
+            "itemId"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemDeleted",
+        "visibility": true
+    },
+    "key_value_pairs": {},
+    "name": "itemDeleted",
+    "service_name": "tet"
+}
