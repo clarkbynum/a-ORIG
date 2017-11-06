@@ -1,0 +1,10 @@
+{
+    "current_version": 12,
+    "dependencies": "clearblade",
+    "logging_enabled": "false",
+    "name": "testRegex",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "testRegex.js"
+}
