@@ -1,0 +1,196 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 0,
+                "Name": "RB_blah_okay_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_blah_tempRule_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_demo_jaRule_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_demo_jaRule_Service_1",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 0,
+                "Name": "RB_ruleBuilderV2Name_howdyho_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_ruleBuilder_jaRule_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_ruleBuilder_jaRule_Service_1",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_withToggle_emailRule_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_withToggle_smsRule_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "RB_yay_hi_Service_0",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "deviceList",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 1,
+                "Name": "tet",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "befbb2970bd2dec79beddbf7ae7e",
+                "Items": [],
+                "Level": 15,
+                "Name": "one"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 1
+        },
+        "Portals": [
+            {
+                "Level": 15,
+                "Name": "fresh",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 13,
+                "Name": "freshest",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "fresher",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "testSize",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "react16",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "testHtml",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "thenewest",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "testV1RuleBuilder",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "newnew",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "trueV2",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "newV2",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 13,
+                "Name": "blahblahblahblahblahblahblablhab",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 5,
+                "Name": "v2Go",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 5,
+                "Name": "v2",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 5,
+                "Name": "v2test",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "beepborp",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "Example-1",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "blank",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "urlplease",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            },
+            {
+                "Level": 15,
+                "Name": "testOldState",
+                "SystemKey": "9ed887970beaa3c0f2ce9efd87e601"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": {
+            "Level": 15
+        },
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
