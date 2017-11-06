@@ -1,0 +1,15 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "topic"
+        ],
+        "def_module": "Messaging",
+        "def_name": "Subscribe",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "topic": "mytopic"
+    },
+    "name": "subscribe",
+    "service_name": "tet"
+}
